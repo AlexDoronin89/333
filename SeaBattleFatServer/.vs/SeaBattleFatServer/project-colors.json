@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a84470aa-433b-489d-8765-c1582218e7fe": {
+      "ProjectGuid": "a84470aa-433b-489d-8765-c1582218e7fe",
+      "DisplayName": "ConnectionLibrary",
+      "ColorIndex": 0
+    },
+    "8ef81885-7164-4b31-b28c-444aa8248211": {
+      "ProjectGuid": "8ef81885-7164-4b31-b28c-444aa8248211",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "66b1bd43-93ad-4883-8c90-9c8b98602b9f": {
+      "ProjectGuid": "66b1bd43-93ad-4883-8c90-9c8b98602b9f",
+      "DisplayName": "Server",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

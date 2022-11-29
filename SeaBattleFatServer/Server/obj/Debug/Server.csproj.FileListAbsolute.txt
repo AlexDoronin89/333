@@ -1,0 +1,11 @@
+G:\С# программирование\SeaBattleFatServer\Server\bin\Debug\Server.exe.config
+G:\С# программирование\SeaBattleFatServer\Server\bin\Debug\Server.exe
+G:\С# программирование\SeaBattleFatServer\Server\bin\Debug\Server.pdb
+G:\С# программирование\SeaBattleFatServer\Server\bin\Debug\ConnectionLibrary.dll
+G:\С# программирование\SeaBattleFatServer\Server\bin\Debug\ConnectionLibrary.pdb
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.csproj.CopyComplete
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.exe
+G:\С# программирование\SeaBattleFatServer\Server\obj\Debug\Server.pdb

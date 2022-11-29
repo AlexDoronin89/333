@@ -1,0 +1,6 @@
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\bin\Debug\ConnectionLibrary.dll
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\bin\Debug\ConnectionLibrary.pdb
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\obj\Debug\ConnectionLibrary.csproj.AssemblyReference.cache
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\obj\Debug\ConnectionLibrary.csproj.CoreCompileInputs.cache
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\obj\Debug\ConnectionLibrary.dll
+G:\С# программирование\SeaBattleFatServer\ConnectionLibrary\obj\Debug\ConnectionLibrary.pdb
